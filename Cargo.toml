@@ -1,0 +1,10 @@
+[package]
+name = "rtbase"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "async runtime base code"
+homepage = "https://crates.io/crates/rtbase"
+documentation = "https://docs.rs/rtbase"
+repository = "https://github.com/zzwxh/rtbase"
+readme = "README.md"
